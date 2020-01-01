@@ -1,4 +1,4 @@
 *.log
 target/
 history
-*.org
+*.orig
