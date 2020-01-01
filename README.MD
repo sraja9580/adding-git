@@ -14,4 +14,4 @@
 	Fork the repository and issue pull request for review.
 	
 ##Copyright
-	Copyright @2014
+	Copyright @2014 RAJA
