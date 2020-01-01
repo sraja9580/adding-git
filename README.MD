@@ -11,6 +11,7 @@
 	This is dummy section
 	
 ## How To Contribute
-
+	Fork the repository and issue pull request for review.
+	
 ##Copyright
 	Copyright @2014
