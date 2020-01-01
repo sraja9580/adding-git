@@ -11,3 +11,6 @@
 	This is dummy section
 	
 ## How To Contribute
+
+##Copyright
+	Copyright @2014
